@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paul
-- 👀 I’m interested in machine learning and datavisualization.
+- 👀 I’m interested in machine learning and data visualization.
 - 🌱 I’m currently working with plotly and dash libraries for quick web-based data visualization
 - 📫 How to reach me: just shoot me an email
 
